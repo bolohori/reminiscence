@@ -20,7 +20,7 @@ nltk==3.4.5
 psycopg2-binary==2.8.6
 pytz==2018.5
 readability-lxml==0.7
-redis==2.10.6
+redis==4.4.4
 six==1.11.0
 sqlparse==0.3.0
 typing-extensions==3.10.0.0
