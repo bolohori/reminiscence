@@ -22,7 +22,7 @@ pytz==2018.5
 readability-lxml==0.7
 redis==2.10.6
 six==1.11.0
-sqlparse==0.3.0
+sqlparse==0.4.4
 typing-extensions==3.10.0.0
 vine==1.1.4
 yarl==1.2.6
